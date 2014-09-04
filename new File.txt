@@ -4,3 +4,13 @@ Sprint IoC
 Spring AOP
 
 http://www.zongheng.com/
+
+Show listening port:
+netstat -lnp 
+
+Show route:
+netstat -rn
+
+traceroute smtpout.secureserver.net
+
+http://www.cyberciti.biz/tips/no-route-to-host-error-and-solution.html
