@@ -18,3 +18,9 @@ http://www.cyberciti.biz/tips/no-route-to-host-error-and-solution.html
 VPN(cost): gotrusted
 
 Java Community Process: https://www.jcp.org/en/home/index
+
+
+Amazon Simple Email Service:
+https://github.com/mizcat/awsmailer
+https://github.com/wiztools/amazon-ses-cli
+https://github.com/savanibharat/AWS-SimpleEmailServiceSES
