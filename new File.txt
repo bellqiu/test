@@ -29,3 +29,9 @@ MATALAB Compiler Runtime(MCR)
 http://www.mathworks.com/products/compiler/mcr/
 http://www.ua.ac.be/main.aspx?c=.BIMEF&n=78577
 https://www.westgrid.ca/support/software/matlab/mcr/software_versions?field_software_assoc2_nid=All&order=title&sort=asc
+
+
+Mysql:
+http://cdn.mysql.com/Downloads/MySQL-5.6/mysql-5.6.22-winx64.zip
+http://cdn.mysql.com/Downloads/MySQL-5.6/MySQL-5.6.22-1.el6.x86_64.rpm-bundle.tar
+http://cdn.mysql.com/Downloads/MySQL-5.6/MySQL-shared-compat-5.6.22-1.el6.x86_64.rpm
