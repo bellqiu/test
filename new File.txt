@@ -36,6 +36,15 @@ http://cdn.mysql.com/Downloads/MySQL-5.6/mysql-5.6.22-winx64.zip
 http://cdn.mysql.com/Downloads/MySQL-5.6/MySQL-5.6.22-1.el6.x86_64.rpm-bundle.tar
 http://cdn.mysql.com/Downloads/MySQL-5.6/MySQL-shared-compat-5.6.22-1.el6.x86_64.rpm
 
-Jquery:
+Jquery plugin:
 Cascading Combos
 http://www.igniteui.com/combo/cascading-combos
+
+Jquery: http://code.jquery.com/jquery-1.11.2.min.js
+http://code.jquery.com/jquery-1.11.2.js
+
+Jquery UI: 
+http://jqueryui.com/resources/download/jquery-ui-1.9.1.zip
+http://jqueryui.com/resources/download/jquery-ui-themes-1.9.1.zip
+http://jqueryui.com/resources/download/jquery-ui-1.11.2.zip
+http://jqueryui.com/resources/download/jquery-ui-themes-1.11.2.zip
